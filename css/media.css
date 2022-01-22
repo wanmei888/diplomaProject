@@ -47,14 +47,6 @@
                  max-width: 100%;
                  text-align: center;
              }
-             /* .footer__info>ul,
-             li {
-                 margin: 0 auto;
-                 padding: 0;
-                 display: flex;
-                 text-align: center;
-                 width: 70%;
-             } */
          }
          
          @media(max-width:900px) {
@@ -97,6 +89,9 @@
              }
              .form {
                  padding-bottom: 25px;
+             }
+             .main__content {
+                 display: none;
              }
          }
          
